@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android" android:minWidth="@dimen/thing_dp_280" android:minHeight="@dimen/thing_dp_80" android:updatePeriodMillis="86400000" android:initialLayout="@layout/scene_app_widget" android:previewImage="@drawable/scene_widget_thumbnail" android:resizeMode="vertical|horizontal" android:initialKeyguardLayout="@layout/scene_app_widget" android:widgetCategory="home_screen"/>

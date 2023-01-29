@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android" android:minWidth="@dimen/thing_dp_270" android:minHeight="@dimen/thing_dp_126" android:updatePeriodMillis="3600" android:initialLayout="@layout/speech_ui_layout_widget_large" android:previewImage="@drawable/ic_assistant_widget_icon" android:widgetCategory="home_screen"/>
